@@ -64,7 +64,7 @@ function playGame() {
             result.textContent = "Player wins!";
             return;
         } else if (computerScore === 5) {
-            result.textContent = "Player wins!";
+            result.textContent = "Computer wins!";
             return;
         }
     }
